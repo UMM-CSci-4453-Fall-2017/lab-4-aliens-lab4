@@ -411,9 +411,9 @@ Make sure and complete the following:
    * [Amazing set of slides on indexing and hashing](http://www.enseignement.polytechnique.fr/informatique/profs/Michalis.Vazirgiannis/course_slides/4_indexing_hashing.pdf)
    * [Spatial indexes in MariaDB](https://mariadb.com/kb/en/mariadb/spatial-index/)
    * [Fractal Tree indexes](https://en.wikipedia.org/wiki/Fractal_tree_index)
-- [ ] Do these tutorials (nothing to turn in-- but do the problems)
+- [x] Do these tutorials (nothing to turn in-- but do the problems)
    * [A second SELECT tutorial](http://www.sqlcourse2.com/)
-- [ ] Do these exercises:
-   - [ ] [Entity-Relation Exercise](#er-exercise)
-   - [ ] [Foreign Key Exercise](#foreign-key-exercise)
-   - [ ] Make sure your tables exist for the shell/mysql index and union examples (where applicable).
+- [x] Do these exercises:
+   - [x] [Entity-Relation Exercise](#er-exercise)
+   - [x] [Foreign Key Exercise](#foreign-key-exercise)
+   - [x] Make sure your tables exist for the shell/mysql index and union examples (where applicable).
